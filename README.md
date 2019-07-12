@@ -6,7 +6,7 @@
 
 # RATAS
 RATAS (**R**everse **A**ccess **T**ool **A**wesome and **S**ecure) is a tool to get access to other computers. 
-It was **written in 2016** for **academic purposes**, presented as a final project of the Higher Degree in Information Systems Management in the Network. The idea was to create something that replicate the ssh functions.  
+It was **written in 2016** for **academic purposes**, presented as a final project of the Higher Degree in Information Systems Management in the Network. The idea was to create something that replicate, but in a way much more basic, the ssh functions.  
   
   
 <p align="center"><img src="https://github.com/R3nt0n/ratas/blob/master/remote-shell.png" /></p>

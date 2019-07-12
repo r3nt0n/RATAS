@@ -29,8 +29,8 @@ If you want, you can configure it to use **reverse connection** in the configura
 
 ## Requirements
 + Python 2.7
-+ requests (*optional*, only if you want to use lyricpass)
-+ beautifulsoup4 (*optional*, only if you want to use lyricpass)
++ requests
++ pycrypto
 
 
 ## Legal disclaimer

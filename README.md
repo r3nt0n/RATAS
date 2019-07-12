@@ -9,7 +9,7 @@ RATAS (**R**emote **A**ccess **T**ool **A**wesome and **S**ecure) is a tool to g
 It was **written in 2016** for **academic purposes**, presented as a final project of the Higher Degree in Information Systems Management in the Network. The idea was to create something that replicate the ssh functions.  
   
   
-<p align="center"><img src="https://github.com/R3nt0n/bopscrk/blob/master/img/remote-shell.png" /></p>
+<p align="center"><img src="https://github.com/R3nt0n/ratas/blob/master/remote-shell.png" /></p>
 
 
 + Asymetric encryptation

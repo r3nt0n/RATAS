@@ -13,9 +13,9 @@ It was **written in 2016** for **academic purposes**, presented as a final proje
 <p align="center"><img src="https://github.com/R3nt0n/ratas/blob/master/img/ratas_example.png" /></p>
 
 
-+ **Asymetric encryptation
-+ **Reverse connection
-+ **Compatible with ssh
++ **Asymetric encryptation**
++ **Reverse connection**
++ **Compatible with ssh**
 
 The app is divided into two slices: client and server. From the **client** you can **administer** the computer that has installed the **server**.
 

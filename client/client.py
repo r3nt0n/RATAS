@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# RATAS [Client]
+# RATAS [Client] (https://www.github.com/R3nt0n/ratas)
+# R3nt0n (https://www.github.com/R3nt0n)
 
 import os
 import sys

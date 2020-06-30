@@ -6,18 +6,18 @@
 
 
 # RATAS
-RATAS (**R**everse **A**ccess **T**ool **A**wesome and **S**ecure) is a tool to get access to other computers. 
+RATAS (**R**everse **A**ccess **T**ool **A**wesome and **S**ecure) is a remote shell with reverse connection and asymmetric encryption. 
 It was **written in 2016** for **academic purposes**, presented as a final project of the Higher Degree in Information Systems Management in the Network. The idea was to create something that replicate, but in a way much more basic, the ssh functions.  
   
   
 <p align="center"><img src="https://github.com/R3nt0n/ratas/blob/master/img/ratas_example.png" /></p>
 
 
-+ **Asymetric encryptation**
++ **Asymmetric encryption**
 + **Reverse connection**
 + **Compatible with ssh**
 
-The app is divided into two slices: client and server. From the **client** you can **administer** the computer that has installed the **server**.
+The app is divided in two parts: client and server. From the **client** you can **administer** the computer that has installed the **server**.
 
 You can use **any normal command** that you be able to introduce in the server shell, and **also special built-in commands** like READ, START, GETFILE, SENDFILE... 
 

@@ -7,7 +7,7 @@
 
 # RATAS
 RATAS (**R**everse **A**ccess **T**ool **A**wesome and **S**ecure) is a remote shell with reverse connection and asymmetric encryption. 
-It was **written in 2016** for **academic purposes**, presented as a final project of the Higher Degree in Information Systems Management in the Network. The idea was to create something that replicate, but in a way much more basic, the ssh functions.  
+It was **written in 2016** for **academic purposes**, presented as a final degree project of the Higher Degree in Information Systems Administration and Network. The idea was to create something that replicate, but in a way much more basic, the ssh functions.  
   
   
 <p align="center"><img src="https://github.com/R3nt0n/ratas/blob/master/img/ratas_example.png" /></p>
